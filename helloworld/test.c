@@ -3,7 +3,7 @@
 
 int main(void){
   hal_setup(CLOCK_BENCHMARK);
-  hal_send_str("Hello CRYPTOS 2024!\n");
+  hal_send_str("You are ready for PwnCrypt!\n");
 
   return 0;
 }
