@@ -51,7 +51,6 @@ Build & Run the ‘Hello World’ example [Inside PwnCrypt directory]
 
 ```bash
 cd helloworld
-make
 make run-qemu
 ```
 
